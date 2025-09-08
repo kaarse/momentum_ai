@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Momentum AI: Marketing Automation",
+  "description": "An AI-powered marketing automation platform to generate complete campaign kits, from social media assets and 3D mockups to multilingual ad variations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
